@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-14 19:58+0800\n"
-"PO-Revision-Date: 2025-10-16 12:27+0300\n"
+"PO-Revision-Date: 2026-04-18 17:48+0300\n"
 "Last-Translator: Fatih AYDIN <fatihaydin5228@gmail.com>\n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -29,22 +29,22 @@ msgid "The filament model is unknown. A random filament preset will be used."
 msgstr "Filament modeli bilinmiyor. Rastgele bir filament ön ayarı kullanılacaktır."
 
 msgid "Main Extruder"
-msgstr ""
+msgstr "Birincil Ekstrüder"
 
 msgid "Main extruder"
-msgstr ""
+msgstr "Birincil ekstrüder"
 
 msgid "main extruder"
-msgstr ""
+msgstr "birincil ekstrüder"
 
 msgid "Auxiliary Extruder"
-msgstr ""
+msgstr "Yardımcı Ekstrüder"
 
 msgid "Auxiliary extruder"
-msgstr ""
+msgstr "Yardımcı ekstrüder"
 
 msgid "auxiliary extruder"
-msgstr ""
+msgstr "yardımcı ekstrüder"
 
 msgid "Left Extruder"
 msgstr "Sol Ekstrüder"
@@ -65,22 +65,22 @@ msgid "right extruder"
 msgstr "sağ ekstruder"
 
 msgid "Main Nozzle"
-msgstr ""
+msgstr "Birincil Nozul"
 
 msgid "Main nozzle"
-msgstr ""
+msgstr "Birincil nozul"
 
 msgid "main nozzle"
-msgstr ""
+msgstr "birincil nozul"
 
 msgid "Auxiliary Nozzle"
-msgstr ""
+msgstr "Yardımcı Nozul"
 
 msgid "Auxiliary nozzle"
-msgstr ""
+msgstr "Yardımcı nozul"
 
 msgid "auxiliary nozzle"
-msgstr ""
+msgstr "yardımcı nozul"
 
 msgid "Left Nozzle"
 msgstr "Sol nozul"
@@ -101,52 +101,52 @@ msgid "right nozzle"
 msgstr "rağ nozul"
 
 msgid "Main Hotend"
-msgstr ""
+msgstr "Birincil Isıtıcı Ucu"
 
 msgid "Main hotend"
-msgstr ""
+msgstr "Birincil ısıtıcı ucu"
 
 msgid "main hotend"
-msgstr ""
+msgstr "birincil ısıtıcı ucu"
 
 msgid "Auxiliary Hotend"
-msgstr ""
+msgstr "Yardımcı Isıtma Ucu"
 
 msgid "Auxiliary hotend"
-msgstr ""
+msgstr "Yardımcı ısıtma ucu"
 
 msgid "auxiliary hotend"
-msgstr ""
+msgstr "yardımcı ısıtma ucu"
 
 msgid "Left Hotend"
-msgstr ""
+msgstr "Sol Hotend"
 
 msgid "Left hotend"
-msgstr ""
+msgstr "Sol hotend"
 
 msgid "left hotend"
-msgstr ""
+msgstr "sol hotend"
 
 msgid "Right Hotend"
-msgstr ""
+msgstr "Sağ Hotend"
 
 msgid "Right hotend"
-msgstr ""
+msgstr "Sağ hotend"
 
 msgid "right hotend"
-msgstr ""
+msgstr "sağ hotend"
 
 msgid "main"
-msgstr ""
+msgstr "birincil"
 
 msgid "auxiliary"
-msgstr ""
+msgstr "yardımcı"
 
 msgid "Main"
-msgstr ""
+msgstr "Birincil"
 
 msgid "Auxiliary"
-msgstr ""
+msgstr "Yardımcı"
 
 msgid "left"
 msgstr "sol"
@@ -170,32 +170,32 @@ msgid "AMS does not support 'Bambu Lab PET-CF'."
 msgstr "AMS, 'Bambu Lab PET-CF'yi desteklemiyor."
 
 msgid "The current filament doesn't support the E3D high-flow nozzle and can't be used."
-msgstr ""
+msgstr "Mevcut filament, E3D yüksek akışlı nozulu desteklemiyor ve kullanılamaz."
 
 #, c-format, boost-format
 msgid "When using %s on the right extruder, it can only be used as support material."
-msgstr ""
+msgstr "Sağdaki ekstrüderde %s kullanıldığında, bu malzeme yalnızca destek malzemesi olarak kullanılabilir."
 
 msgid "The current filament doesn't support the TPU high-flow nozzle and can't be used."
-msgstr ""
+msgstr "Mevcut filament, TPU yüksek akışlı nozulu desteklemiyor ve kullanılamaz."
 
 msgid "Auto dynamic flow calibration is not supported for TPU filament."
-msgstr ""
+msgstr "TPU filamenti için otomatik dinamik akış kalibrasyonu desteklenmemektedir."
 
 msgid "Bambu TPU 85A is not supported for printing with 0.4 mm Standard or High Flow nozzles."
-msgstr ""
+msgstr "Bambu TPU 85A, 0,4 mm Standart veya Yüksek Akışlı nozullarla baskı için desteklenmemektedir."
 
 msgid "When using ABS/ASA/PETG HF on the right extruder, it can only be used as support material."
-msgstr ""
+msgstr "Sağdaki ekstrüderde ABS/ASA/PETG HF kullanıldığında, bu malzeme yalnızca destek malzemesi olarak kullanılabilir."
 
 msgid "How to feed TPU filament."
-msgstr ""
+msgstr "TPU filamenti nasıl beslenir."
 
 msgid "How to feed TPU filament on X2D."
-msgstr ""
+msgstr "X2D'de TPU filamenti nasıl beslenir."
 
 msgid "Using non-bambu filament may have printing quality issues."
-msgstr ""
+msgstr "Bambu olmayan filament kullanılması, baskı kalitesinde sorunlara yol açabilir."
 
 msgid "Please cold pull before printing TPU to avoid clogging. You may use cold pull maintenance on the printer."
 msgstr "Tıkanmayı önlemek için TPU'yu yazdırmadan önce lütfen filamenti soğuduktan sonra çekin. Yazıcıda soğuk çekme bakımını kullanabilirsiniz."
@@ -213,26 +213,26 @@ msgid "PPA-CF is brittle and could break in bended PTFE tube above Toolhead."
 msgstr "PPA-CF kırılgandır ve Baskı Kafasının üzerindeki bükülmüş PTFE tüp içinde kırılabilir."
 
 msgid "PLA Glow may wear the AMS first stage feeder. Use an external spool instead."
-msgstr ""
+msgstr "PLA Glow, AMS birinci aşama besleyiciyle uyumlu olmayabilir. Bunun yerine harici bir makara kullanın."
 
 msgid "Default settings may affect print quality. Adjust as needed for best results."
-msgstr ""
+msgstr "Varsayılan ayarlar baskı kalitesini etkileyebilir. En iyi sonuçları elde etmek için gerektiği gibi ayarlayın."
 
 #, c-format, boost-format
 msgid "%s has a risk of nozzle clogging when using 0.4mm high-flow nozzles. Use with caution."
-msgstr ""
+msgstr "%s, 0,4 mm'lik yüksek akışlı nozullar kullanıldığında nozul tıkanması riski taşır. Dikkatli kullanın."
 
 #, c-format, boost-format
 msgid "%s filaments are hard and brittle and could break in AMS, and there is also a risk of nozzle clogging when using 0.4mm high-flow nozzles. Use with caution."
-msgstr ""
+msgstr "%s filamentleri sert ve kırılgandır; AMS baskı sırasında kırılabilirler. Ayrıca, 0,4 mm'lik yüksek akışlı nozullar kullanıldığında nozul tıkanması riski de bulunmaktadır. Dikkatli kullanınız."
 
 #, c-format, boost-format
 msgid "%s has a risk of nozzle clogging when using 0.4, 0.6, 0.8mm high-flow nozzles. Use with caution."
-msgstr ""
+msgstr "%s has a risk of nozzle clogging when using 0.4, 0.6, 0.8mm high-flow nozzles. Use with caution."
 
 #, c-format, boost-format
 msgid "%s may fail to load or unload due to the Filament Track Switch. If you wish to continue."
-msgstr ""
+msgstr "%s, Filament Yolu Anahtarı nedeniyle yüklenemeyebilir veya çıkarılmayabilir. Devam etmek istiyorsanız."
 
 #, c-format, boost-format
 msgid "%s is not supported by %s extruder."
@@ -240,40 +240,40 @@ msgstr "%s, %s ekstrüder tarafından desteklenmiyor."
 
 #, c-format, boost-format
 msgid "There may be critical print quality issues when printing '%s' with %s Bowden extruder. Use with caution!"
-msgstr ""
+msgstr "%s Bowden ekstrüderiyle ‘%s’ yazdırılırken ciddi baskı kalitesi sorunları yaşanabilir. Dikkatli kullanın!"
 
 #, c-format, boost-format
 msgid "There may be critical print quality issues when printing '%s' with %s extruder. Use with caution!"
-msgstr ""
+msgstr "%s ekstrüderiyle ‘%s’ yazdırılırken ciddi baskı kalitesi sorunları yaşanabilir. Dikkatli kullanın!"
 
 #, c-format, boost-format
 msgid "There may be print quality issues when printing '%s' with %s Bowden extruder. Use with caution."
-msgstr ""
+msgstr "%s Bowden ekstrüderiyle ‘%s’ yazdırılırken baskı kalitesinde sorunlar yaşanabilir. Dikkatli kullanın."
 
 #, c-format, boost-format
 msgid "There may be print quality issues when printing '%s' with %s extruder. Use with caution."
-msgstr ""
+msgstr "%s ekstrüderiyle ‘%s’ yazdırılırken baskı kalitesinde sorunlar yaşanabilir. Dikkatli kullanın."
 
 msgid "The toolhead and hotend rack may move. Please keep your hands away from the chamber."
-msgstr ""
+msgstr "Alet kafası ve ısıtıcı rafı hareket edebilir. Lütfen ellerinizi hazneden uzak tutun."
 
 msgid "Warning"
 msgstr "Uyarı"
 
 msgid "Hotend information may be inaccurate. Would you like to re-read the hotend? (Hotend information may change during power-off)."
-msgstr ""
+msgstr "Hotend bilgileri yanlış olabilir. Hotend bilgilerini yeniden okumak ister misiniz? (Hotend bilgileri, cihaz kapalıyken değişebilir)."
 
 msgid "I confirm all"
-msgstr ""
+msgstr "Hepsini onaylıyorum"
 
 msgid "Re-read all"
-msgstr ""
+msgstr "Hepsini yeniden oku"
 
 msgid "Reading the hotends, please wait."
-msgstr ""
+msgstr "Hotend'leri okunuyor, lütfen bekleyin."
 
 msgid "During the hotend upgrade, the toolhead will move. Don't reach into the chamber."
-msgstr ""
+msgstr "Hotend güncellemesi sırasında baskı kafası hareket edecektir. Hazneye elinizi sokmayın."
 
 msgid "Update"
 msgstr "Güncelle"
@@ -285,13 +285,13 @@ msgid "Standard"
 msgstr "Standart"
 
 msgid "TPU High Flow"
-msgstr ""
+msgstr "TPU Yüksek Akış"
 
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
 msgid "Hybrid"
-msgstr ""
+msgstr "Hibrit"
 
 msgid "Hardened Steel"
 msgstr "Güçlendirilmiş çelik"
@@ -337,32 +337,32 @@ msgid "%d ℃"
 msgstr "%d ℃"
 
 msgid "Filament Inlet A"
-msgstr ""
+msgstr "Filament Girişi A"
 
 msgid "Filament Inlet B"
-msgstr ""
+msgstr "Filament Girişi B"
 
 msgid "Filament Track Switch"
-msgstr ""
+msgstr "Filamentli Ray Anahtarı"
 
 msgid "Suggested rearrangement"
-msgstr ""
+msgstr "Önerilen yeniden düzenleme"
 
 msgid "How to save time?→"
-msgstr ""
+msgstr "Nasıl zaman kazanılır?→"
 
 msgid "Filament Status:"
-msgstr ""
+msgstr "Filament Durumu:"
 
 msgid "Position adjustment required"
-msgstr ""
+msgstr "Konum ayarlaması gerekiyor"
 
 msgctxt "FilamentTrack"
 msgid "OK"
-msgstr ""
+msgstr "TAMAM"
 
 msgid "Unused"
-msgstr ""
+msgstr "Kullanılmamış"
 
 msgid "Refresh"
 msgstr "Yenile"
@@ -372,26 +372,26 @@ msgstr "Kapat"
 
 #, c-format, boost-format
 msgid "Based on the diagram below, rearrange the filaments on the printer for optimal results to save approximately %s."
-msgstr ""
+msgstr "Aşağıdaki şemaya göre, yaklaşık %s tasarruf sağlamak üzere en iyi sonuçları elde etmek için yazıcıdaki filamentleri yeniden düzenleyin."
 
 msgid "Summary:"
-msgstr ""
+msgstr "Özet:"
 
 msgid "AMS on Filament Inlet A"
-msgstr ""
+msgstr "Filament Girişi A'daki AMS"
 
 msgid "AMS on Filament Inlet B"
-msgstr ""
+msgstr "Filament Girişi B'deki AMS"
 
 #, c-format, boost-format
 msgid "The No.%d slicing filament is matched to '%s'. Assigning it to '%s' can save printing time."
-msgstr ""
+msgstr "%d numaralı dilimleme filamenti, ‘%s’ ile eşleştirilmiştir. Bunu '%s'ye atamak, baskı süresinden tasarruf etmenizi sağlayabilir."
 
 msgid "*Tips: If you have moved the spool position on the machine, please close this page and re‑match the filament."
-msgstr ""
+msgstr "*İpucu: Makinedeki makara konumunu değiştirdiyseniz, lütfen bu sayfayı kapatın ve filamenti yeniden eşleştirin."
 
 msgid "Summary: This is currently the most suitable position for placement."
-msgstr ""
+msgstr "Özet: Bu, şu anda yerleştirme için en uygun pozisyondur."
 
 msgid "?"
 msgstr "?"
@@ -409,13 +409,13 @@ msgid "Latest version"
 msgstr "Son sürüm"
 
 msgid "Row A"
-msgstr ""
+msgstr "Satır A"
 
 msgid "Row B"
-msgstr ""
+msgstr "Satır B"
 
 msgid "Toolhead"
-msgstr ""
+msgstr "Takım kafası"
 
 msgid "Empty"
 msgstr "Boş"
@@ -424,46 +424,46 @@ msgid "Error"
 msgstr "Hata"
 
 msgid "Induction Hotend Rack"
-msgstr ""
+msgstr "İndüksiyonlu Hotend Rafı"
 
 msgid "Hotends Info"
-msgstr ""
+msgstr "Hotend Bilgileri"
 
 msgid "Read All"
-msgstr ""
+msgstr "Tümünü oku"
 
 msgid "Reading "
-msgstr ""
+msgstr "Okunuyor "
 
 msgid "Please wait"
-msgstr ""
+msgstr "Lütfen bekleyin"
 
 msgid "Reading"
-msgstr ""
+msgstr "Okunuyor"
 
 msgid "Running..."
-msgstr ""
+msgstr "Yürütülüyor…"
 
 msgid "Raised"
-msgstr ""
+msgstr "Yükseltildi"
 
 msgid "The hotend is in an abnormal state and currently unavailable. Please go to 'Device -> Upgrade' to upgrade firmware."
-msgstr ""
+msgstr "Hotend anormal bir durumda ve şu anda kullanılamıyor. Firmware güncellemesi yapmak için lütfen ‘Cihaz -> Güncelleme’ seçeneğine gidin."
 
 msgid "Abnormal Hotend"
-msgstr ""
+msgstr "Anormal Hotend"
 
 msgid "Cancel"
 msgstr "İptal"
 
 msgid "Jump to the upgrade page"
-msgstr ""
+msgstr "Yükseltme sayfasına git"
 
 msgid "Refreshing"
 msgstr "Yenileniyor"
 
 msgid "Hotend status abnormal, unavailable at present. Please upgrade the firmware and try again."
-msgstr ""
+msgstr "Hotend durumu anormal, şu anda kullanılamıyor. Lütfen donanım yazılımını güncelleyin ve tekrar deneyin."
 
 msgid "SN"
 msgstr "SN"
@@ -473,22 +473,22 @@ msgstr "Sürüm"
 
 #, c-format, boost-format
 msgid "Used Time: %s"
-msgstr ""
+msgstr "Kullanım Süresi: %s"
 
 msgid "Dynamic nozzles are allocated on the current plate. Picking hotend is not supported."
-msgstr ""
+msgstr "Dinamik nozullar mevcut plakaya yerleştirilmiştir. Hotend seçimi desteklenmemektedir."
 
 msgid "Hotend Rack"
-msgstr ""
+msgstr "Hotend Rafı"
 
 msgid "ToolHead"
-msgstr ""
+msgstr "Takım Kafası"
 
 msgid "Nozzle information needs to be read"
-msgstr ""
+msgstr "Nozul bilgilerinin okunması gerekiyor"
 
 msgid "Note:"
-msgstr ""
+msgstr "Not:"
 
 msgid "Supports Painting"
 msgstr "Destek Boyama"
@@ -749,16 +749,16 @@ msgid "Fixed step drag"
 msgstr "Sabit adım sürükle"
 
 msgid "Keep holding down Ctrl"
-msgstr ""
+msgstr "Ctrl tuşunu basılı tutun"
 
 msgid "Select multiple objects"
 msgstr "Birden fazla nesne seç"
 
 msgid "Keep holding down Alt"
-msgstr ""
+msgstr "Alt tuşunu basılı tutun"
 
 msgid "Select multiple parts"
-msgstr ""
+msgstr "Birden fazla parça seçin"
 
 msgid "Single sided scaling"
 msgstr "Tek taraflı ölçeklendirme"
@@ -803,64 +803,64 @@ msgid "World coordinates"
 msgstr "Dünya koordinatları"
 
 msgid "Align selected"
-msgstr ""
+msgstr "Seçilenleri hizala"
 
 msgid "Translate(Relative)"
 msgstr "Çevir(Göreceli)"
 
 msgid "Align Object"
-msgstr ""
+msgstr "Nesneyi Hizala"
 
 msgid "Align Plate"
-msgstr ""
+msgstr "Hizalama Plakası"
 
 msgid "Align top-bottom center"
-msgstr ""
+msgstr "Yukarı-aşağı ortala"
 
 msgid "Holded down Ctrl key continuously and click by left mouse button can select multiple objects, or holded down Alt key continuously and click by left mouse button can select multiple parts"
-msgstr ""
+msgstr "Ctrl tuşunu basılı tutarak farenin sol tuşuna tıklayarak birden fazla nesneyi seçebilir veya Alt tuşunu basılı tutarak farenin sol tuşuna tıklayarak birden fazla parçayı seçebilirsiniz"
 
 msgid "Align"
-msgstr ""
+msgstr "Hizala"
 
 msgid "Distribute"
-msgstr ""
+msgstr "Dağıt"
 
 msgid "Align left"
-msgstr ""
+msgstr "Sola hizala"
 
 msgid "Align left-right center"
-msgstr ""
+msgstr "Sola-sağa ortalamak için hizala"
 
 msgid "Align right"
-msgstr ""
+msgstr "Sağa hizala"
 
 msgid "Distribute left-right"
-msgstr ""
+msgstr "Sola-sağa dağıt"
 
 msgid "Please select at least 3 parts or objects"
-msgstr ""
+msgstr "Lütfen en az 3 parça veya nesne seçin"
 
 msgid "Align front"
-msgstr ""
+msgstr "Ön tarafı hizala"
 
 msgid "Align front-back center"
-msgstr ""
+msgstr "Ön-arka merkezine hizala"
 
 msgid "Align back"
-msgstr ""
+msgstr "Geri hizala"
 
 msgid "Distribute front-back"
-msgstr ""
+msgstr "Öne-arka dağıt"
 
 msgid "Align bottom"
-msgstr ""
+msgstr "Alt kısmı hizala"
 
 msgid "Align top"
-msgstr ""
+msgstr "Üst kısmı hizala"
 
 msgid "Distribute top-bottom"
-msgstr ""
+msgstr "Üste-alta dağıt"
 
 msgid "°"
 msgstr "°/s"
@@ -1059,7 +1059,7 @@ msgid "Hexagon"
 msgstr "Altıgen"
 
 msgid "Middle of geometry"
-msgstr ""
+msgstr "Geometrinin ortası"
 
 msgid "Snap global parameters"
 msgstr "Genel parametreleri yakala"
@@ -1108,7 +1108,7 @@ msgid "Snap"
 msgstr "Çıt Çıt"
 
 msgid "Thread"
-msgstr ""
+msgstr "Konu"
 
 msgid "Tolerance"
 msgstr "Tolerans"
@@ -1488,7 +1488,7 @@ msgid "Click to change part type into modifier."
 msgstr "Parça tipini değiştiriciye değiştirmek için tıklayın."
 
 msgid "Surround projection by character"
-msgstr ""
+msgstr "By char çevreleme projeksiyonu"
 
 msgid "Not surround"
 msgstr "Çevresel değil"
@@ -1523,7 +1523,7 @@ msgid "Advanced"
 msgstr "Gelişmiş"
 
 msgid "Embedded depth"
-msgstr ""
+msgstr "Gömülme derinliği"
 
 msgid "Text Gap"
 msgstr "Metin Boşluğu"
@@ -1936,7 +1936,7 @@ msgid "Login information expired. Please login again."
 msgstr "Giriş bilgilerinin süresi doldu. Lütfen tekrar giriş yapın."
 
 msgid "Failed to connect to the cloud device server. Please check your network and firewall."
-msgstr ""
+msgstr "Bulut cihaz sunucusuna bağlanılamadı. Lütfen ağ bağlantınızı ve güvenlik duvarınızı kontrol edin."
 
 msgid "Incorrect password"
 msgstr "Yanlış parola"
@@ -2272,7 +2272,7 @@ msgid "Support Enforcer"
 msgstr "Destek Uygulayıcısı"
 
 msgid "Change part type"
-msgstr ""
+msgstr "Parça türünü değiştir"
 
 msgid "Set as an individual object"
 msgstr "Ayrı bir nesne olarak ayarla"
@@ -2321,10 +2321,10 @@ msgid "current"
 msgstr "geçerli"
 
 msgid "Scale to print volume"
-msgstr ""
+msgstr "Yazdırma hacmine göre ölçekle"
 
 msgid "Scale the selected object to fit the print volume"
-msgstr ""
+msgstr "Seçilen nesneyi baskı hacmine sığacak şekilde ölçeklendir"
 
 msgid "Flush Options"
 msgstr "Hizalama Seçenekleri"
@@ -2369,10 +2369,10 @@ msgid "Mesh boolean operations including union and subtraction"
 msgstr "Birleştirme ve çıkarma dahil mesh bölme işlemleri"
 
 msgid "Merge into Single Part"
-msgstr ""
+msgstr "Tek Parça Haline Getir"
 
 msgid "Merge the selected parts into one part"
-msgstr ""
+msgstr "Seçilen parçaları tek bir parça halinde birleştir"
 
 msgid "Along X axis"
 msgstr "X ekseni boyunca"
@@ -2402,10 +2402,10 @@ msgid "Add Primitive"
 msgstr "Şekil Ekle"
 
 msgid "Show Labels by Layer"
-msgstr ""
+msgstr "Etiketleri Göster"
 
 msgid "Show Labels by Object"
-msgstr ""
+msgstr "Nesneye Göre Etiketleri Göster"
 
 msgid "To objects"
 msgstr "Nesnelere"
@@ -2468,13 +2468,13 @@ msgid "Expand all"
 msgstr ""
 
 msgid "Expand all objects on this plate"
-msgstr ""
+msgstr "Bu tabladaki tüm nesneleri genişlet"
 
 msgid "Collapse all"
-msgstr ""
+msgstr "Tümünü daralt"
 
 msgid "Collapse all objects on this plate"
-msgstr ""
+msgstr "Bu sayfadaki tüm öğeleri daralt"
 
 msgid "Delete Plate"
 msgstr "Plakayı Sil"
@@ -2483,7 +2483,7 @@ msgid "Remove the selected plate"
 msgstr "Seçilen plakayı kaldır"
 
 msgid "Move Plate"
-msgstr ""
+msgstr "Plakayı hareket ettir"
 
 msgid "Clone"
 msgstr "Klon"
@@ -2492,19 +2492,19 @@ msgid "Simplify Model"
 msgstr "Modeli Basitleştir"
 
 msgid "Subdivision mesh"
-msgstr ""
+msgstr "Alt bölüm ağ"
 
 msgid "(Lost color)"
-msgstr ""
+msgstr "(Rengi solmuş)"
 
 msgid "Center"
 msgstr "Merkez"
 
 msgid "Align/Distribute"
-msgstr ""
+msgstr "Hizala/Dağıt"
 
 msgid "Align and distribute objects"
-msgstr ""
+msgstr "Nesneleri hizala ve dağıt"
 
 msgid "Sub merge"
 msgstr "Alt birleştirme"
@@ -2659,7 +2659,7 @@ msgid "Assembly"
 msgstr "Birleştir"
 
 msgid "Using variable layer height together with mixed color sublayer may result in poor color mixing quality."
-msgstr ""
+msgstr "Değişken katman yüksekliği ile karışık renkli alt katmanların birlikte kullanılması, renk karışım kalitesinin düşmesine neden olabilir."
 
 msgid "Cut Connectors information"
 msgstr "Kesim Konnektörleri bilgileri"
@@ -2733,14 +2733,14 @@ msgstr "Onarım iptal edildi"
 
 #, c-format, boost-format
 msgid "\"%s\" will exceed 1 million faces after this subdivision, which may increase slicing time. Do you want to continue?"
-msgstr ""
+msgstr "Bu alt bölümleme işleminden sonra “%s” 1 milyon yüz sayısını aşacak ve bu durum dilimleme süresini uzatabilir. Devam etmek istiyor musunuz?"
 
 msgid "BambuStudio warning"
-msgstr ""
+msgstr "BambuStudio uyarısı"
 
 #, c-format, boost-format
 msgid "\"%s\" part's mesh contains errors. Please repair it first."
-msgstr ""
+msgstr "“%s” parçasının ağında hatalar var. Lütfen önce bunu düzeltin."
 
 msgid "Additional process preset"
 msgstr "Ek işlem ön ayarı"
@@ -2845,7 +2845,7 @@ msgid "Custom G-code:"
 msgstr "Özel G kodu:"
 
 msgid "Toggle path view to current layer/all layers"
-msgstr ""
+msgstr "Yol görünümünü mevcut katmana/tüm katmanlara geç"
 
 msgid "Custom G-code"
 msgstr "Özel G kodu"
@@ -2941,7 +2941,7 @@ msgid "Unload"
 msgstr "Çıkar"
 
 msgid "AMS has not been initialized. Please initialize it before use."
-msgstr ""
+msgstr "AMS başlatılmadı. Lütfen kullanmadan önce başlatın."
 
 msgid "Choose an AMS slot then press \"Load\" or \"Unload\" button to automatically load or unload filaments."
 msgstr "Bir AMS yuvası seçin ve ardından filamentleri otomatik olarak yüklemek veya çıkartmak için \"Yükle\" veya \"Çıkart\" düğmesine basın."
@@ -2957,7 +2957,7 @@ msgstr "Onayla"
 
 #, c-format, boost-format
 msgid "Load %s to "
-msgstr ""
+msgstr "%s dosyasını şuraya yükle "
 
 msgid "Changing fan speed during printing may affect print quality, please choose carefully."
 msgstr "Yazdırma sırasında fan hızının değiştirilmesi baskı kalitesini etkileyebilir, lütfen dikkatli seçim yapın."
@@ -3019,14 +3019,14 @@ msgstr "Güçlü soğutma modu PLA/TPU malzemelerin baskısı için uygundur. Bu
 
 #, c-format, boost-format
 msgid "Cooling mode is suitable for printing %s materials."
-msgstr ""
+msgstr "Soğutma modu, %s malzemelerinin yazdırılması için uygundur."
 
 #, c-format, boost-format
 msgid "Heating mode is suitable for printing %s materials and circulates filters the chamber air."
-msgstr ""
+msgstr "Isıtma modu, %s malzemelerinin baskısı için uygundur ve hazne havasını sirküle ederek filtreler."
 
 msgid "Strong Cooling"
-msgstr ""
+msgstr "Güçlü Soğutma"
 
 msgid "Fan"
 msgstr "Fan"
@@ -3045,11 +3045,11 @@ msgstr "Sol(Yardımcı)"
 
 msgctxt "air_duct"
 msgid "Left(Heating)"
-msgstr ""
+msgstr "Sol (Isıtma)"
 
 msgctxt "air_duct"
 msgid "Chamber"
-msgstr ""
+msgstr "Oda"
 
 msgid "Hotend"
 msgstr "Hotend"
@@ -3091,22 +3091,22 @@ msgid "Purge old filament"
 msgstr "Eski filamenti temizleyin"
 
 msgid "Switch"
-msgstr ""
+msgstr "Anahtar"
 
 msgid "hotend"
-msgstr ""
+msgstr "hotend"
 
 msgid "Wait for AMS cooling"
-msgstr ""
+msgstr "AMS soğutmasının tamamlanmasını bekleyin"
 
 msgid "Switch current filament at Filament Track Switch"
 msgstr ""
 
 msgid "Pull back current filament at Filament Track Switch"
-msgstr ""
+msgstr "Filament Yolu Anahtarında mevcut filamenti geri çekin"
 
 msgid "Switch track at Filament Track Switch"
-msgstr ""
+msgstr "Filament Ray Değiştirici'de ray değiştirin"
 
 msgid "Confirm extruded"
 msgstr "Filamentin ekstrude edildiğini onayla"
@@ -3474,10 +3474,10 @@ msgid "Are you sure you want to clear the filament information?"
 msgstr "Filament bilgisini temizlemek istediğinizden emin misiniz?"
 
 msgid "TPU needs a different feeding path and loading procedure. Otherwise clogging or jam may happen. Please read the tutorial before using TPU."
-msgstr ""
+msgstr "TPU için farklı bir besleme yolu ve yükleme prosedürü gereklidir. Aksi takdirde tıkanma veya sıkışma meydana gelebilir. Lütfen TPU'yu kullanmadan önce kılavuzu okuyun."
 
 msgid "Go to Check"
-msgstr ""
+msgstr "Denetlemeye git"
 
 msgid "You need to select the material type and color first."
 msgstr "Önce malzeme türünü ve rengini seçmeniz gerekir."
@@ -3492,7 +3492,7 @@ msgstr "Lütfen geçerli bir değer girin (K %.1f~%.1f içinde, N %.1f~%.1f içi
 
 #, c-format, boost-format
 msgid "Note: The hotend number on the %s is tied to the holder. When the hotend is moved to a new holder, its number will update automatically."
-msgstr ""
+msgstr "Not: %s üzerindeki hotend numarası tutucuya bağlıdır. Hotend yeni bir tutucuya taşındığında, numarası otomatik olarak güncellenecektir."
 
 msgid ""
 "The nozzle flow is not set. Please set the nozzle flow rate before editing the filament.\n"
@@ -3607,7 +3607,7 @@ msgstr "Lütfen aşağıdaki filamentler arasından seçim yapın"
 
 #, c-format, boost-format
 msgid "Select filament that installed to the %s"
-msgstr ""
+msgstr "%s'ye takılı olan filamenti seçin"
 
 msgid "Left AMS"
 msgstr "Sol AMS"
@@ -3623,11 +3623,11 @@ msgstr "Sağ AMS"
 
 #, c-format, boost-format
 msgid "Printing with the current nozzle may produce an extra %0.2f g of waste."
-msgstr ""
+msgstr "Mevcut püskürtme başlığıyla baskı yapıldığında, %0.2f g kadar fazla atık oluşabilir."
 
 #, c-format, boost-format
 msgid "Tips: the filament type(%s) does not match with the filament type(%s) in the slicing file. If you want to use this slot, you can install %s instead of %s and change slot information on the 'Device' page."
-msgstr ""
+msgstr "İpucu: Filament türü(%s), dilimleme dosyasındaki filament türü(%s) ile uyuşmuyor. Bu yuvayı kullanmak istiyorsanız, %s yerine %s'yi takabilir ve “Aygıt” sayfasındaki yuva bilgilerini değiştirebilirsiniz."
 
 #, c-format, boost-format
 msgid "Cannot select: the filament type(%s) does not match with the filament type(%s) in the slicing file. If you want to use this slot, you can install %s instead of %s and change slot information on the 'Device' page."
@@ -17043,8 +17043,7 @@ msgstr ""
 "Baskılarınızı plakalara ayırın\n"
 "Çok sayıda parçası olan bir modeli baskıya hazır ayrı kalıplara bölebileceğinizi biliyor muydunuz? Bu, tüm parçaları takip etme sürecini basitleştirecektir."
 
-#: resources/data/hints.ini: [hint:Speed up your print with Adaptive Layer
-#: Height]
+#: resources/data/hints.ini: [hint:Speed up your print with Adaptive Layer Height]
 msgid ""
 "Speed up your print with Adaptive Layer Height\n"
 "Did you know that you can print a model even faster, by using the Adaptive Layer Height option? Check it out!"
@@ -17116,8 +17115,7 @@ msgstr ""
 "Gücü artırın\n"
 "Modelin gücünü artırmak için daha fazla duvar halkası ve daha yüksek seyrek dolgu yoğunluğu kullanabileceğinizi biliyor muydunuz?"
 
-#: resources/data/hints.ini: [hint:When need to print with the printer door
-#: opened]
+#: resources/data/hints.ini: [hint:When need to print with the printer door opened]
 msgid ""
 "When need to print with the printer door opened\n"
 "Did you know that opening the printer door can reduce the probability of extruder/hotend clogging when printing lower temperature filament with a higher enclosure temperature. More info about this in the Wiki."
@@ -17133,29 +17131,25 @@ msgstr ""
 "Eğilmeyi önleyin\n"
 "ABS gibi bükülmeye yatkın malzemelere baskı yaparken, ısıtma yatağı sıcaklığının uygun şekilde arttırılmasının bükülme olasılığını azaltabileceğini biliyor muydunuz."
 
-#: resources/data/helio_hints.ini: [hint: Run Nylon & PC (and other advanced
-#: materials) Like a Pro]
+#: resources/data/helio_hints.ini: [hint: Run Nylon & PC (and other advanced materials) Like a Pro]
 msgid ""
 "Run Nylon & PC (and other advanced materials) Like a Pro\n"
 "Printing Nylon 612 or Polycarbonate or other advanced materials? Helio helps you avoid the 'almost worked' failure."
 msgstr ""
 
-#: resources/data/helio_hints.ini: [hint: Make Prints up to 30% Faster
-#: (Safely)]
+#: resources/data/helio_hints.ini: [hint: Make Prints up to 30% Faster (Safely)]
 msgid ""
 "Make Prints up to 30% Faster (Safely)\n"
 "Get real throughput, not risky 'speed mode'. A print that normally takes 8 hours might drop to ~5.6 hours."
 msgstr ""
 
-#: resources/data/helio_hints.ini: [hint: Stop Wasting Precious Design Time on
-#: Tuning]
+#: resources/data/helio_hints.ini: [hint: Stop Wasting Precious Design Time on Tuning]
 msgid ""
 "Stop Wasting Precious Design Time on Tuning\n"
 "Fewer trial prints, faster dial-in. Instead of multiple test prints, detect issues and print first time right."
 msgstr ""
 
-#: resources/data/helio_hints.ini: [hint: Cut Warping on ASA/ABS and other
-#: advanced materials]
+#: resources/data/helio_hints.ini: [hint: Cut Warping on ASA/ABS and other advanced materials]
 msgid ""
 "Cut Warping on ASA/ABS and other advanced materials\n"
 "Warping ruins long jobs. Helio shows where risk is highest before you print, and, with enhance, cuts the risk of warping to almost nil."
